@@ -1,2 +1,1 @@
-# TodoApp
-Todo APP made with Redux Toolking
+## Todo APP made with [Redux Toolkit](https://redux-toolkit.js.org/)
